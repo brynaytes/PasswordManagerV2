@@ -1,0 +1,18 @@
+{
+	user: "Bob",
+	settings: {
+		lightMode: true
+	},
+	list: [
+		{
+			url: "place.com",
+			user: "name",
+			pass: "1234"
+		},
+		{
+			url: "place.com",
+			user: "name",
+			pass: "1234"
+		},
+	]
+}
